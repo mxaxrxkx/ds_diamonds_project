@@ -1,0 +1,4 @@
+# .gitignore
+
+diamonds.csv
+.ipynb_checkpoints/
